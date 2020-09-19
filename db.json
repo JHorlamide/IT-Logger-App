@@ -1,0 +1,59 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "change hard drive in workstaion 005",
+      "attention": false,
+      "date": "02-04-2020",
+      "tech": "Tyler Down"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "02-09-2020",
+      "tech": "Harry White"
+    },
+    {
+      "id": 3,
+      "message": "change memory on workstation 060",
+      "attention": false,
+      "date": "05-04-2020",
+      "tech": "Jill Johnson"
+    },
+    {
+      "tech": "Olamide Jubril",
+      "message": "UPS power storage failing",
+      "attention": "true",
+      "date": "06-09-2020",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Tyler",
+      "lastName": "Down"
+    },
+    {
+      "id": 2,
+      "firstName": "Harry",
+      "lastName": "White"
+    },
+    {
+      "id": 3,
+      "firstName": "Jill",
+      "lastName": "Johnson"
+    },
+    {
+      "firstName": "Olamide",
+      "lastName": "Jubril",
+      "id": 4
+    },
+    {
+      "firstName": "JHorlamide",
+      "lastName": "Horlamide",
+      "id": 5
+    }
+  ]
+}
